@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["PLAYING DREAM CITY V3","WATCHING 1000+ MEMBERS ❤️"];
 
 
 let currentIndex = 0;
